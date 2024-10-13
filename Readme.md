@@ -25,7 +25,7 @@ You need to provide the following information in `terraform.tfvars` or via CLI:
 ### 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NashTech-Labs/NGINX-Ingress-Controller-private-ip
 cd terraform-aks-nginx
 ```
 
